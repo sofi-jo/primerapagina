@@ -7,3 +7,6 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: listadomaterias
+- file: estudiantes
+- file: animales
+- file: ingles
