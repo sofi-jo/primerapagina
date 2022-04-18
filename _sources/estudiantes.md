@@ -9,5 +9,5 @@ Leonardo Ochoa
 
 ## Proyecto 1
 ***
-Se desarrollara por cada dos estudiantes el proyecto que consiste en crear una pagina web usando php
+Se desarrollara por cada dos estudiantes el proyecto que consiste en crear una pagina web usando php.
 

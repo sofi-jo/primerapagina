@@ -7,4 +7,4 @@ Blue -> Azul
 Purple -> Morado
 Pink -> Rosado
 Green -> Verde
-Yellow -> Amarillo
+Yellow -> Amarillo.
