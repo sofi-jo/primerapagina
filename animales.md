@@ -1,4 +1,5 @@
 # Animales en extinción
+
 ## Información General 
 ***
 Un animal es un ser vivo que puede moverse por sus propios medios. Por lo general, dentro de la denominación se incluye a los integrantes del reino conocido como Animalia. Existen diversas características compartidas por la mayoría de los animales, aún con sus diferencias.
